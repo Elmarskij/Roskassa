@@ -1,8 +1,5 @@
 ## Getting Started
 
-
-The instructions for installing the project Django and DRF project in Windows
-
 ### Prerequisites
 
 Step by step:
@@ -10,8 +7,8 @@ Step by step:
 2. Create folder for this project
 3. Now you need to create a virtual environment
 ```
-mkdir neofinance
-cd neofinance
+mkdir RoskassaSDK
+cd RoskassaSDK
 pip install pipenv
 ```
 
@@ -25,7 +22,7 @@ The next step to clone repository and download requirements
 
 Clone this repository
 ```
-git clone https://github.com/mminovv/financeCrm.git
+git clone https://github.com/Elmarskij/Roskassa.git
 ```
 Install requirements
 ```
